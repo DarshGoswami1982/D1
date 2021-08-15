@@ -29,7 +29,7 @@ from threading import Thread as thrThread
 from time import ctime, sleep, strptime, time
 from multiprocessing import Lock
 from random import choice
-from random import randomit
+
 import pip
 import select
 
